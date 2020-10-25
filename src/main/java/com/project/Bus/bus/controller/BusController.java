@@ -13,7 +13,6 @@ import java.util.List;
 @RestController
 @RequestMapping("/bus")
 public class BusController {
-
     @Autowired
     BusService busService;
 
